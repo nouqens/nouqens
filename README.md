@@ -15,7 +15,7 @@
 
 ## 🛠️ Ferramentas que uso no dia a dia
 
-- **Linguagens**: Java (principal), Python, um pouco de HTML, CSS e JavaScript
+- **Linguagens**: Java (principal), Python, HTML, CSS e JavaScript
 - **Frameworks**: Spring Boot, JUnit
 - **Banco de dados**: MySQL
 - **Outros**: Git, GitHub, IntelliJ IDEA, Apache NetBeans IDE, VS Code
