@@ -26,7 +26,7 @@
 
 Alguns dos meus projetos e estudos mais recentes:
 
-- 🧩 **Resoluções de questões da CodeForces - Programacao Competitva** – soluções alternativas em java
+- 🧩 **Resoluções de questões da CodeForces - Programação Competitiva** – soluções alternativas em java
 
  <!---
 - 🔗 **API REST com Spring Boot** – um back-end simples pra aprender como tudo se conecta.
