@@ -39,7 +39,7 @@ Sinta-se à vontade pra explorar, comentar, sugerir algo ou simplesmente acompan
 
 ## 📬 Quer me contatar?
 
-- ✉️ Email: [jp,firmino009@gmail.com]  
+- ✉️ Email: [jp.firmino009@gmail.com]  
 - 💼 LinkedIn: [linkedin.com/in/JoaoPedro](https://www.linkedin.com/in/jo%C3%A3o-pedro-0501b1339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 💻 GitHub: [github.com/nouqens](https://github.com/nouqens)
 
