@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro!
 
-🎓 Estudante de Desenvolvimento de Sistemas e programador em Java e tecnologias backend. Atualmente estou aprendendo e construindo projetos para fortalecer meus conhecimentos em Java, estrutura de dados, algoritmos e frameworks como Spring Boot.
+🎓 Estudante de Desenvolvimento de Sistemas e programador em Java e tecnologias backend. Atualmente estou aprendendo e construindo projetos para fortalecer meus conhecimentos em Java, estrutura de dados, algoritmos e frameworks, como Spring Boot.
 
 ---
 
